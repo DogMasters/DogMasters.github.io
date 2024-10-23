@@ -450,8 +450,8 @@ a:hover {
   left: calc(50% - 100px);
   width: 250px;
   height: 250px;
-  /* -webkit-animation: animate-preloader 1s linear infinite;
-  animation: animate-preloader 1s linear infinite; */
+  -webkit-animation: animate-preloader 1s linear infinite;
+  animation: animate-preloader 1s linear infinite;
 }
 
 @-webkit-keyframes animate-preloader {
@@ -709,7 +709,7 @@ a:hover {
 .intro .intro-title {
   font-family: "Kode Mono", monospace;
   color: #fff;
-  text-shadow: 0px 0px 10px red;
+  /* text-shadow: 0px 0px 10px red; */
   font-weight: 600;
   font-size: 3rem;
 }
