@@ -446,7 +446,7 @@ a:hover {
   background-image: url(/img/DogMaster.png);
   background-size: cover;
   position: fixed;
-  top: calc(50% - 30px);
+  top: calc(50% - 100px);
   left: calc(50% - 100px);
   width: 250px;
   height: 250px;
