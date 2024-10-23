@@ -447,7 +447,7 @@ a:hover {
   background-size: cover;
   position: fixed;
   top: calc(50% - 30px);
-  left: calc(50% - 30px);
+  left: calc(50% - 100px);
   width: 250px;
   height: 250px;
   /* -webkit-animation: animate-preloader 1s linear infinite;
