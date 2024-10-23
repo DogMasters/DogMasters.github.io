@@ -443,7 +443,7 @@ a:hover {
 
 #preloader:before {
   content: "";
-  background-image: url(/img/e.gif);
+  background-image: url(/img/DogMaster.png);
   background-size: cover;
   position: fixed;
   top: calc(50% - 30px);
